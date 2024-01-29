@@ -1,0 +1,40 @@
+{
+  "name": "CoreDAO",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2024-01-01T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1116,
+      "address": "0x01065D48363713fA32C6cA51387E0803023C872c",
+      "name": "AGUS",
+      "symbol": "AGUS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x6eBa46c0D59aC048749382F3E58f5b55F4ba9ca6",
+      "name": "Danacoin",
+      "symbol": "DANA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
