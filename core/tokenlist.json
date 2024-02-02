@@ -30,6 +30,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/aguscryptocom/decentralized-exchange/main/tokenlogo/usdt.png"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aguscryptocom/decentralized-exchange/main/tokenlogo/wcore.png"
     }
   ],
   "version": {
