@@ -1,0 +1,32 @@
+{
+  "name": "PancakeSwap Extended",
+  "timestamp": "2024-01-04T07:35:20.598Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 197
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "AGUS",
+      "symbol": "AGUS",
+      "address": "0x334eD8117A7cd5EfA17681093C3e66af61F877c1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aguscryptocom/decentralized-exchange/main/tokenlogo/agus.png"
+    },
+    {
+      "name": "Tether USDT",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aguscryptocom/decentralized-exchange/main/tokenlogo/usdt.png"
+    }
+  ]
+}
